@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Robert Carter, I am from Columbus Ohio.
+I am a student at Tech Elevator, just getting into the software development world!
+I'm currently working on learing the fundamentals of code and I am really excited to begin my career as a software developer.
